@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "CZZCarouselView.h"
-//#import "XRCarouselView.h"
+
 @interface ViewController ()<CZZCarouselViewDelegate>
 @property (nonatomic,strong)CZZCarouselView *carouselView;
 @end
