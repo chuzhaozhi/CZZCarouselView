@@ -8,7 +8,7 @@
 
 #import "ViewController.h"
 #import "CZZCarouselView.h"
-
+//这是一个很牛逼的轮播图循环
 @interface ViewController ()<CZZCarouselViewDelegate>
 @property (nonatomic,strong)CZZCarouselView *carouselView;
 @end
